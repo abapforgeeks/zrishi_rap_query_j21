@@ -1,0 +1,4 @@
+@EndUserText.label: 'AMDP query'
+define service Zrishi_sd_amdp_query {
+  expose zi_afg_invoice_query;
+}

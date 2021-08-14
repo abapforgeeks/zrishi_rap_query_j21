@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Def for Unmanaged Query'
+define service ZC_SD_QUERY_U_JULY21 {
+  expose ZC_AFG_QUERY_U_JULY21;
+}
